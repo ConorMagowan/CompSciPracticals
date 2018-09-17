@@ -1,2 +1,3 @@
-# CompSciPracticals
-Practicals Completed from Oxford University Comp.Sci ML Course
+## Repository Contents
+
+This repositry contains
